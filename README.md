@@ -33,5 +33,9 @@
 <p>
 <a href="https://twitter.com/ohemershon" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href=̈́"https://linkedin.com/in/hemershon-silva-22646749" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-
+<p align="left">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://linkedin.com/in//hemershon-silva-22646749" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hemershon" height="30" width="40" /></a>
+    <a href="https://instagram.com/hemershon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hemershon" height="30" width="40" /></a>
+</p>
 <br>
