@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hemershon Silva, </h1>
-<h1 align="center">:octocat:and this is my github, hope you like my designs or codes</h1>
+<h3 align="center">and this is my :octocat:github, hope you like my designs or codes</h3>
 <h3 align="center">I'm a backend developer From <img src="https://lipis.github.io/flag-icon-css/flags/4x3/br.svg" width="25"/></h3>
 
 
