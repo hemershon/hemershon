@@ -21,3 +21,11 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemershon&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hemershon&theme=default"/></td>
+    </tr>   
+  </table>
+</center> 
