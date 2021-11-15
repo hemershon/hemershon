@@ -1,5 +1,5 @@
 <h1 align="center">:octocat:Hi, I'm Hemershon Silva</h1>
-<h3 align="center">I'm a backend developer From <img src="https://www.jsdelivr.com/package/npm/brazil" width="25"/></h3>
+<h3 align="center">I'm a backend developer From Brazil
 
 
 - 🌱 I’m currently learning **Ruby, Elixir, Javascript**
