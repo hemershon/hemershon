@@ -1,12 +1,12 @@
-<h1 align="center">:octocat:Hi, I'm Hemershon Silva</h1>
+<h1 align="center">:octocat:Hello welcome to my github, I'm Hemershon Silva</h1>
 <h3 align="center">I'm a backend developer From Brazil</h3>
 
 
 - 🌱 I’m currently learning **Ruby, Elixir, Javascript**
 
-- 💬 Ask me about **HTML, CSS, Ruby, Ruby on Rails, Javascript, Git, Linux, Heroku, Digital Ocean**
+- 💬 I'm a software engineer, I work using some tools mainly **HTML, CSS, Ruby, Ruby on Rails, Javascript, Git, Linux, Heroku, Digital Ocean**
 
-- 📫 How to reach me **hemershon@gmail.com**
+- 📫 How to reach me **hemershon@gmail.com**  [**blog**](https://hemershon.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
