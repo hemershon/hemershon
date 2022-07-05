@@ -26,7 +26,7 @@
 
 | What        | Repository | comments about |
 |-------------|------------|----------------|
-| basic ruby  | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented)       | about          |
+| basic ruby  | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented)       | [blog](https://hemershon.github.io/categories/#ruby)       |
 |             |            |                |
 |             |            |                |
 
