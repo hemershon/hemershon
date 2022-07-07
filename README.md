@@ -30,6 +30,21 @@
 |             |            |                |
 |             |            |                |
 
+<h3 align="left">Rails:</h3>
+
+| What                       | Repository | comments about |
+|----------------------------|------------|----------------|
+| create system administrato | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented)       | [blog](https://hemershon.github.io/categories/#ruby)       |
+|                            |            |                |
+|                            |            |                |
+
+<h3 align="left">Test:</h3>
+
+| What                       | Repository | comments about |
+|----------------------------|------------|----------------|
+| Diet management system with weight assessment chart. | [Maida Health company test](https://github.com/hemershon/dieta_maida)       | [blog](https://hemershon.github.io/categories)       |
+|                            |            |                |
+|                            |            |                |
 <center>
   <table>
     <tr>
