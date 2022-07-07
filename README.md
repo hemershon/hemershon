@@ -32,11 +32,11 @@
 
 <h3 align="left">Rails:</h3>
 
-| What                       | Repository | comments about |
-|----------------------------|------------|----------------|
-| create system administrato | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented)       | [blog](https://hemershon.github.io/categories/#ruby)       |
-|                            |            |                |
-|                            |            |                |
+| What                      | Repository | comments about |
+|---------------------------|------------|----------------|
+|  | []()       | [blog](https://hemershon.github.io/categories/)       |
+|                           |            |                |
+|                           |            |                |
 
 <h3 align="left">Test:</h3>
 
