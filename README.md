@@ -40,11 +40,11 @@
 
 <h3 align="left">Test:</h3>
 
-| What                                                 | Repository                                                           | comments about |
-|------------------------------------------------------|----------------------------------------------------------------------|----------------|
-| Diet management system with weight assessment chart. | [Maida Health company test](https://github.com/hemershon/dieta_maida) | [blog](https://hemershon.github.io/categories)       |
-| Test for Nobordist                                   | [test store vehicles for NOBORDIST](https://github.com/hemershon/store_vehicles)|                |
-|                                                      |                                                                      |                |
+| What                                                 | Repository                                                                       | comments about |
+|------------------------------------------------------|----------------------------------------------------------------------------------|----------------|
+| Diet management system with weight assessment chart. | [Maida Health company test](https://github.com/hemershon/dieta_maida)            | [blog](https://hemershon.github.io/categories)       |
+| Test for Nobordist                                   | [test store vehicles for NOBORDIST](https://github.com/hemershon/store_vehicles) |                |
+| Navedex Challenge                                    | [Test Navedex](https://github.com/hemershon/navedex)                             |                |
 <center>
   <table>
     <tr>
