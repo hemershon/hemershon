@@ -24,11 +24,11 @@
 <h3 align="left">what am i practicing daily:</h3>
 <h3 align="left">Ruby:</h3>
 
-| What        | Repository | comments about |
-|-------------|------------|----------------|
-| basic ruby  | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented)       | [blog](https://hemershon.github.io/categories/#ruby)       |
-|             |            |                |
-|             |            |                |
+| What       | Repository                                                                                                                 | comments about |
+|------------|----------------------------------------------------------------------------------------------------------------------------|----------------|
+| basic ruby | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented) | [blog](https://hemershon.github.io/categories/#ruby)       |
+| Algorithm  | [algoritmo-mentoria](https://github.com/hemershon/algoritmo-mentoria)     |                |
+|            |                                                                                                                            |                |
 
 <h3 align="left">Rails:</h3>
 
