@@ -45,7 +45,7 @@
 | Diet management system with weight assessment chart. | [Maida Health company test](https://github.com/hemershon/dieta_maida) | [blog](https://hemershon.github.io/categories)       |
 | Test for Nobordist                                   | [test store vehicles for NOBORDIST](https://github.com/hemershon/store_vehicles) |                |
 | Navedex Challenge                                    | [Test Navedex](https://github.com/hemershon/navedex)                  |                |
-| Navedex Challenge                                    | [](https://github.com/hemershon/glmpiv01)                             |                |
+|                                     | []()                             |                |
 
 <center>
   <table>
