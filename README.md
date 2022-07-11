@@ -32,11 +32,11 @@
 
 <h3 align="left">Rails:</h3>
 
-| What                      | Repository | comments about |
-|---------------------------|------------|----------------|
-|  | []()       | [blog](https://hemershon.github.io/categories/)       |
-|                           |            |                |
-|                           |            |                |
+| What                      | Repository                                                                        | comments about |
+|---------------------------|-----------------------------------------------------------------------------------|----------------|
+|  | [Create blog wiht bulma and rails](https://github.com/hemershon/blog_bulma_rails) | [blog](https://hemershon.github.io/categories/)       |
+|                           |                                                                                   |                |
+|                           |                                                                                   |                |
 
 <h3 align="left">Test:</h3>
 
