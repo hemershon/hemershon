@@ -37,6 +37,7 @@
 | Project | [Create blog wiht bulma and rails](https://github.com/hemershon/blog_bulma_rails) | [blog](https://hemershon.github.io/categories/)       |
 | Project | [System administration ](https://github.com/hemershon/glmpiv01)|        |
 | Project |[Create API Rails](https://github.com/hemershon/notebook_api)|    |
+| Project |[Create Blog with bulma](https://github.com/hemershon/blog_with_bulma)| |
 
 <h3 align="left">Test:</h3>
 
