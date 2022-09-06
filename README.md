@@ -21,31 +21,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
-<h3 align="left">what am i practicing daily:</h3>
-<h3 align="left">Ruby:</h3>
-
-| What       | Repository                                                                                                                 | comments about |
-|------------|----------------------------------------------------------------------------------------------------------------------------|----------------|
-| basic ruby | [Getting Started with Ruby and Object Oriented](https://github.com/hemershon/Getting_Started_with_Ruby_and_Object_Oriented) | [blog](https://hemershon.github.io/categories/#ruby)       |
-| Algorithm  | [algoritmo-mentoria](https://github.com/hemershon/algoritmo-mentoria)     |                |
-|            |                                                                                                                            |                |    
-
-<h3 align="left">Rails:</h3>
-
-| What | Repository                                                                        | comments about |
-|--|-----------------------------------------------------------------------------------|----------------|
-| Project | [System administration ](https://github.com/hemershon/glmpiv01)|        |
-| Project |[Create API Rails](https://github.com/hemershon/notebook_api)|    |
-| Project |[Create Blog with bulma](https://github.com/hemershon/blog_with_bulma)| |
-
-<h3 align="left">Test:</h3>
-
-| What                                                 | Repository                                                            | comments about |
-|------------------------------------------------------|-----------------------------------------------------------------------|----------------|
-| Diet management system with weight assessment chart. | [Maida Health company test](https://github.com/hemershon/dieta_maida) | [blog](https://hemershon.github.io/categories)       |
-| Test for Nobordist                                   | [test store vehicles for NOBORDIST](https://github.com/hemershon/store_vehicles) |                |
-| Navedex Challenge                                    | [Test Navedex](https://github.com/hemershon/navedex)                  |                |
-|                                     | []()                             |                |
 
 <center>
   <table>
