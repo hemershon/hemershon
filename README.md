@@ -1,12 +1,27 @@
-<h1 align="center">:octocat:Hello welcome to my github, I'm Hemershon Silva</h1>
-<h3 align="center">I'm a backend developer From Brazil</h3>
+<h1 align="center">:octocat:Welcome to my GitHub! 👋</h1>
+<h3 align="center">I'm a Software Engineer with expertise in web development. In this repository, you will find projects and works related to my skills and experience in Ruby on Rails, JavaScript, React, Node.js, Vue.js, AWS, Heroku, and DigitalOcean.</h3>
 
+# About Me
 
-- 🌱 I’m currently learning **Ruby, Elixir, Javascript**
-
-- 💬 I'm a software engineer, I work using some tools mainly **HTML, CSS, Ruby, Ruby on Rails, Javascript, Git, Linux, Heroku, Digital Ocean**
-
+- 🔭 Currently, I'm working on projects involving Ruby on Rails, JavaScript, React, Node.js, and Vue.js.
+- 🌱 I'm always learning and improving in new technologies and web development concepts.
+- 💼 I have experience in software development, architectural design, implementation, and testing.
+- 💬 Feel free to reach out to me for technical discussions, collaboration opportunities, or any other inquiries.
 - 📫 How to reach me **hemershon@gmail.com**  [**blog**](https://hemershon.github.io/)
+
+# Languages and Technologies
+
+- Ruby: Building scalable web applications using Ruby on Rails.
+- JavaScript: Creating interactive and dynamic interfaces with frameworks like React and Node.js.
+- React: Developing reusable components and building modern user interfaces.
+- Node.js: Building server-side applications and APIs using JavaScript.
+- Vue.js: Creating reactive and performant user interfaces with Vue.js.
+- AWS (Amazon Web Services): Experience with cloud services like EC2, S3, and Lambda.
+- Heroku: Deployment and hosting of web applications.
+- DigitalOcean: Setting up and managing virtual servers and cloud infrastructure.
+# Featured Projects
+
+Here are some highlighted projects that showcase my skills and experience:
 
 
 <h3 align="left">Languages and Tools:</h3>
