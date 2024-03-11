@@ -21,7 +21,3 @@ Sou um Engenheiro de Software com experiência em desenvolvimento web. Neste rep
 
 ## Projetos em Destaque
 Aqui estão alguns projetos em destaque que demonstram minhas habilidades e experiências:
-
-[Languages and Tools]
-
-Espero que esta tradução esteja de acordo com o que você precisa para adicionar ao seu README!
