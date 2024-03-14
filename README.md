@@ -27,4 +27,4 @@ Sou um Engenheiro de Software com experiência em desenvolvimento web. Neste rep
 Aqui estão alguns projetos em destaque que demonstram minhas habilidades e experiências:
 
 ### Ruby 
-Performace na lúnguagem e TDD com Rspec [algoritmo](https://github.com/hemershon/especialista/tree/main/sintaxe-basica)
+Nesse repositório você vai ver meu desempenho no uso da Sitaxe Básica junto com o Rspec[algoritmo](https://github.com/hemershon/especialista/tree/main/sintaxe-basica)
