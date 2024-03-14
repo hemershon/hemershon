@@ -25,3 +25,5 @@ Sou um Engenheiro de Software com experiência em desenvolvimento web. Neste rep
 
 ## Destaque
 Aqui estão alguns projetos em destaque que demonstram minhas habilidades e experiências:
+
+### Ruby (algoritmo)
