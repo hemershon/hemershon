@@ -19,6 +19,7 @@ Sou um Engenheiro de Software com experiência em desenvolvimento web. Neste rep
 - **React:** Desenvolvendo componentes reutilizáveis e construindo interfaces modernas.
 - **Node.js:** Construindo aplicações e APIs do lado do servidor usando JavaScript.
 - **Vue.js:** Criando interfaces reativas e performáticas com Vue.js.
+- **Java**
 - **AWS (Amazon Web Services):** Experiência com serviços de nuvem como EC2, S3 e Lambda.
 - **Heroku:** Implantação e hospedagem de aplicações web.
 - **DigitalOcean:** Configuração e gerenciamento de servidores virtuais e infraestrutura em nuvem.
