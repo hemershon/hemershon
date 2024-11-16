@@ -1,7 +1,7 @@
  # Bem-vindo ao meu GitHub! 👋
  
  :octocat:
-Sou um Engenheiro de Software com experiência em desenvolvimento web. Neste repositório, você encontrará projetos e trabalhos relacionados às minhas habilidades e experiências em Ruby on Rails, Golang, JavaScript, React, Node.js, Vue.js, AWS, Heroku e DigitalOcean.
+Sou um Engenheiro de Software com experiência em desenvolvimento web. Neste repositório, você encontrará projetos e trabalhos relacionados às minhas habilidades e experiências em Ruby on Rails, Golang, JavaScript, React, Node.js, Vue.js, PHP, Laravel.
 
 ## Sobre Mim
 🔭 Atualmente, estou trabalhando em projetos envolvendo Ruby on Rails, java, Python, JavaScript, React, Node.js e Vue.js.
